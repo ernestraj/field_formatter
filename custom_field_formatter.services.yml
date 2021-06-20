@@ -1,0 +1,4 @@
+services:
+  custom_field_formatter.custom_service:
+    class: Drupal\custom_field_formatter\SlugifyService
+    arguments: []

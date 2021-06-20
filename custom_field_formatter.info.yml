@@ -1,0 +1,6 @@
+name: Custom Field Formatter
+description: This module will contain custom field formatters asked for coding interview
+package: Custom
+
+type: module
+core: 8.x

@@ -1,0 +1,7 @@
+field.formatter.settings.slugify_formatter:
+  type: mapping
+  label: "Custom Field Formatter settings"
+  mapping:
+    separator:
+      type: integer
+      label: "Separator"
